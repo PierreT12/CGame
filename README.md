@@ -1,6 +1,7 @@
 # C/C++ Game
-My final for Programming 1!! We were tasked with making a muliplayer game that was multiplayer and had a lot of replayability.  
-The game had to be made within a partically broken OpenGL framework, so it gave us some experince working with trying to make sense of older code that wasn't our own.  
+My final for Programming 1!! We were tasked with making a multiplayer game that had a lot of replay value.  
+The game had to be made within a broken OpenGL framework, so it gave us some experience working with trying to make sense of older code that wasn't our own.  
+  
 
 
 # About the Game
