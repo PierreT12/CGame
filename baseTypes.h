@@ -1,0 +1,16 @@
+#ifndef ERROR_I_CANT_FIGURE_OUT
+#define ERROR_I_CANT_FIGURE_OUT
+typedef struct 
+{
+    float x;
+    float y;
+}Coord2D;
+
+typedef float float_t;
+typedef unsigned int uint32_t;
+typedef int int32_t;
+typedef char char8_t;
+typedef short int16_t;
+typedef unsigned short uint16_t;
+typedef int bool8_t;
+#endif
